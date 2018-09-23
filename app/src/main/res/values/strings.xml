@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NumberProject</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_play">Play</string>
+    <string name="text_first_number">0</string>
+    <string name="text_second_number">0</string>
+    <string name="text_question_mark">\?</string>
+    <string name="button_less">Less</string>
+    <string name="button_equal">Equal</string>
+    <string name="button_bigger">Bigger</string>
+    <string name="text_score">Score:</string>
+    <string name="text_score_count">0</string>
+    <string name="button_main_menu">Go Back To The Main Menu</string>
+</resources>
